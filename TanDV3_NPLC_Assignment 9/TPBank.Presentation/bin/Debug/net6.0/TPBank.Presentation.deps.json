@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TPBank.Presentation/1.0.0": {
+        "dependencies": {
+          "TPBank.BusinessLogicLayer": "1.0.0",
+          "TPBank.DataAccessLayer": "1.0.0",
+          "TPBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TPBank.Presentation.dll": {}
+        }
+      },
+      "TPBank.BusinessLogicLayer/1.0.0": {
+        "dependencies": {
+          "TPBank.DataAccessLayer": "1.0.0",
+          "TPBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TPBank.BusinessLogicLayer.dll": {}
+        }
+      },
+      "TPBank.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "TPBank.Entities": "1.0.0"
+        },
+        "runtime": {
+          "TPBank.DataAccessLayer.dll": {}
+        }
+      },
+      "TPBank.Entities/1.0.0": {
+        "runtime": {
+          "TPBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPBank.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPBank.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPBank.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

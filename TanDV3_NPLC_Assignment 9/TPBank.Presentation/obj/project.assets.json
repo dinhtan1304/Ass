@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TPBank.BusinessLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TPBank.DataAccessLayer": "1.0.0",
+          "TPBank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TPBank.BusinessLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPBank.BusinessLogicLayer.dll": {}
+        }
+      },
+      "TPBank.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TPBank.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TPBank.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPBank.DataAccessLayer.dll": {}
+        }
+      },
+      "TPBank.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TPBank.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TPBank.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPBank.BusinessLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../TPBank.BusinessLogicLayer/TPBank.BusinessLogicLayer.csproj",
+      "msbuildProject": "../TPBank.BusinessLogicLayer/TPBank.BusinessLogicLayer.csproj"
+    },
+    "TPBank.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../TPBank.DataAccessLayer/TPBank.DataAccessLayer.csproj",
+      "msbuildProject": "../TPBank.DataAccessLayer/TPBank.DataAccessLayer.csproj"
+    },
+    "TPBank.Entities/1.0.0": {
+      "type": "project",
+      "path": "../TPBank.Entities/TPBank.Entities.csproj",
+      "msbuildProject": "../TPBank.Entities/TPBank.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TPBank.BusinessLogicLayer >= 1.0.0",
+      "TPBank.DataAccessLayer >= 1.0.0",
+      "TPBank.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.Presentation\\TPBank.Presentation.csproj",
+      "projectName": "TPBank.Presentation",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.Presentation\\TPBank.Presentation.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj"
+            },
+            "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.Entities\\TPBank.Entities.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\Desktop\\FS\\NPL_slide[2]\\TanDV3_NPLC_Assignment 9\\TPBank.Entities\\TPBank.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

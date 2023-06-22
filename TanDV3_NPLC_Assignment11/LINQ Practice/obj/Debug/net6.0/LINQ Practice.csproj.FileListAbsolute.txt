@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\bin\Debug\net6.0\LINQ Practice.exe
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\bin\Debug\net6.0\LINQ Practice.deps.json
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\bin\Debug\net6.0\LINQ Practice.runtimeconfig.json
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\bin\Debug\net6.0\LINQ Practice.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\bin\Debug\net6.0\LINQ Practice.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\refint\LINQ Practice.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\LINQ Practice.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment11\LINQ Practice\obj\Debug\net6.0\ref\LINQ Practice.dll

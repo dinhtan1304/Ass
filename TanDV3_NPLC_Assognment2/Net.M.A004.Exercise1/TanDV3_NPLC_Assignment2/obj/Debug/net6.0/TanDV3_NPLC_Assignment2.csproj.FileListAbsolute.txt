@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\Net.M.A004.Exercise1\TanDV3_NPLC_Assignment2\obj\Debug\net6.0\TanDV3_NPLC_Assignment2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\Net.M.A004.Exercise1\TanDV3_NPLC_Assignment2\obj\Debug\net6.0\TanDV3_NPLC_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\Net.M.A004.Exercise1\TanDV3_NPLC_Assignment2\obj\Debug\net6.0\TanDV3_NPLC_Assignment2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\Net.M.A004.Exercise1\TanDV3_NPLC_Assignment2\obj\Debug\net6.0\TanDV3_NPLC_Assignment2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\Net.M.A004.Exercise1\TanDV3_NPLC_Assignment2\obj\Debug\net6.0\TanDV3_NPLC_Assignment2.csproj.CoreCompileInputs.cache

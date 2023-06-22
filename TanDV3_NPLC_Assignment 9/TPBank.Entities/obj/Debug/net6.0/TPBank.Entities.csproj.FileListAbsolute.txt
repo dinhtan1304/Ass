@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.deps.json
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\refint\TPBank.Entities.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.Entities\obj\Debug\net6.0\ref\TPBank.Entities.dll

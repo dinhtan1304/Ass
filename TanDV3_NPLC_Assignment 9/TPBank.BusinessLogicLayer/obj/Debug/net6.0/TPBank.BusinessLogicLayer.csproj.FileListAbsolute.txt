@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.BusinessLogicLayer.deps.json
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.BusinessLogicLayer.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.Entities.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\bin\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\refint\TPBank.BusinessLogicLayer.dll
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\TPBank.BusinessLogicLayer.pdb
+C:\Users\ADMIN\Desktop\FS\NPL_slide[2]\TanDV3_NPLC_Assignment 9\TPBank.BusinessLogicLayer\obj\Debug\net6.0\ref\TPBank.BusinessLogicLayer.dll

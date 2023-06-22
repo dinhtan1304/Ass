@@ -1,0 +1,4 @@
+2023-02-22 09:52:05,786 [1] INFO Log4NetSample.LogUtility.Logger.Info[24] - Starting the console application
+2023-02-22 09:52:05,920 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[20] - Starting Program
+2023-02-22 09:52:05,941 [1] ERROR Log4NetSample.LogUtility.Logger.Error[28] - Sample Error inside the try catch block code
+2023-02-22 09:52:05,942 [1] DEBUG Log4NetSample.LogUtility.Logger.Debug[20] - Waiting for user input
